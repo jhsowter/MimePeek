@@ -1,8 +1,0 @@
-c:\users\jhsow\onedrive\documents\visual studio 2015\Projects\MimePeek\GetMime\bin\Debug\GetMime.exe.config
-c:\users\jhsow\onedrive\documents\visual studio 2015\Projects\MimePeek\GetMime\obj\Debug\GetMime.csprojResolveAssemblyReference.cache
-c:\users\jhsow\onedrive\documents\visual studio 2015\Projects\MimePeek\GetMime\bin\Debug\GetMime.exe
-c:\users\jhsow\onedrive\documents\visual studio 2015\Projects\MimePeek\GetMime\bin\Debug\GetMime.pdb
-c:\users\jhsow\onedrive\documents\visual studio 2015\Projects\MimePeek\GetMime\bin\Debug\CommandLine.dll
-c:\users\jhsow\onedrive\documents\visual studio 2015\Projects\MimePeek\GetMime\bin\Debug\CommandLine.xml
-c:\users\jhsow\onedrive\documents\visual studio 2015\Projects\MimePeek\GetMime\obj\Debug\GetMime.exe
-c:\users\jhsow\onedrive\documents\visual studio 2015\Projects\MimePeek\GetMime\obj\Debug\GetMime.pdb
